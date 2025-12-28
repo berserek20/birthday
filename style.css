@@ -46,6 +46,17 @@ p {
     font-weight: bold;
     color: #ff4b5c;
 }
+.countdown {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 20px 0;
+    color: #ff4b5c;
+    background: #fff3f5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
 
 @keyframes bounce {
     0%, 100% {

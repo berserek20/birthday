@@ -1,6 +1,6 @@
 // 🎂 Set Birthday Date (YYYY, MM-1, DD, HH, MM, SS)
 // Example: 10 October 2025, 12:00 AM
-const birthdayDate = new Date(2025, 11, 28, 19, 0, 0).getTime();
+const birthdayDate = new Date(2026, 1, 1, 19, 0, 0).getTime();
 
 const countdown = document.getElementById("countdown");
 
